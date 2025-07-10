@@ -52,3 +52,24 @@ nav h3{
 .banner a button{
     margin-bottom: 150px;
 }
+/* action css */
+.action h3{
+    font-family: raleway, sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+}
+.action p{
+    font-family: raleway, sans-serif;
+    font-size: 24px;
+    font-weight: regular;
+    color: rgba(37, 36, 50, 0.5);
+    width: 517px;
+
+}
+.action-container{
+    display: flex;
+    justify-content: space-around;
+}
+.action-container img{
+    border-radius: 48px;
+}
