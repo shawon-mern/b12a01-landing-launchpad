@@ -164,3 +164,35 @@ nav h3{
     color: rgba(37, 36, 50, 0.5);
 
 }
+/* ready css */
+.ready-container{
+    background-color: rgba(179, 179, 179, 1);
+    border-radius: 14px;
+   text-align: center;
+
+}
+.ready-container h3{
+    font-family: raleway, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.ready-container p{
+    font-family: raleway, sans-serif;
+    font-size: 15px;
+    font-weight: regular;
+    padding: 0 150px 50px 150px;
+    color: rgba(37, 36, 50, 0.5);
+}
+.ready-container a{
+    padding-bottom:20px ;
+    display: block;
+
+}
+ img{
+    border-radius: 48px;
+
+}
+.ready-pic {
+ padding-bottom: 71px;
+}
