@@ -12,7 +12,8 @@
   font-style: normal;
 }
 /* share css */
-
+ section{
+    margin: 116px 150px;}
 /* nav css */
 .header{
     background-image: url(../Assets/Hero-bg.png);
@@ -69,9 +70,11 @@ nav h3{
 .action-container{
     display: flex;
     justify-content: space-around;
+
 }
 .action-container img{
     border-radius: 48px;
+
 }
 /* Productive css */
 .Productive-container{
@@ -93,6 +96,9 @@ nav h3{
     margin: 0 150px;
     text-align: center;
 }
+.pro-items{
+    padding-bottom: 50px;
+}
 .pro-items .pro-number{
     font-family: "Inter", sans-serif;
     font-size: 80px;
@@ -105,5 +111,39 @@ nav h3{
     font-size: 20px;
     font-weight: regular;
     color: rgba(37, 36, 50, 0.5);
-    te
+}
+/* feedback css */
+.feedback-container h3{
+    font-weight: bold;
+    font-family: raleway, sans-serif;
+    text-align: center;
+    font-size: 42px;
+    padding-bottom: 50px;
+}
+.feedback{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 150px;
+}
+.star{
+    display: flex;
+    padding: 24px 0 0 24px;
+}
+.feed-items{
+    background-color: rgba(242, 237, 237, 1);
+    border-radius: 14px;
+    width: 366px;
+}
+.feed-items h4{
+    font-size: 28px;
+    padding: 0 24px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+}
+.feed-items p{
+    font-size: 16px;
+    padding: 0 24px;
+    font-weight: regular;
+    font-family: "Inter", sans-serif;
+    color: rgba(37, 36, 50, 0.5);
 }
