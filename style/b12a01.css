@@ -73,3 +73,37 @@ nav h3{
 .action-container img{
     border-radius: 48px;
 }
+/* Productive css */
+.Productive-container{
+    background-color: rgba(78, 71, 255, 0.1);
+    margin: 0 150px;
+    border-radius: 24px;
+    padding-top: 50px
+}
+.Productive-container h3{
+    font-family: raleway, sans-serif;
+    font-size:38px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.productive{display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 150px;
+    text-align: center;
+}
+.pro-items .pro-number{
+    font-family: "Inter", sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF
+
+}
+.pro-items .pro-label{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: regular;
+    color: rgba(37, 36, 50, 0.5);
+    te
+}
