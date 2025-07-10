@@ -147,3 +147,20 @@ nav h3{
     font-family: "Inter", sans-serif;
     color: rgba(37, 36, 50, 0.5);
 }
+.rev-pic img{
+    border-radius: 50%;
+    padding-left: 10px
+}
+.reviewer{
+    display: flex;
+    align-items: center;
+}
+.rev-id h5{
+    font-size: 20px;
+    color: rgba(37, 36, 50, 0.5);
+}
+.rev-id p{
+    font-size: 16px;
+    color: rgba(37, 36, 50, 0.5);
+
+}
